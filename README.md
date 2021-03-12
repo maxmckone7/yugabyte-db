@@ -158,3 +158,6 @@ The build produces two sets of binaries:
 
 * To see our updates, go to [The Distributed SQL Blog](https://blog.yugabyte.com/).
 * See how YugabyteDB [compares with other databases](https://docs.yugabyte.com/latest/comparisons/). 
+
+
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fyugabyte-db?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fyugabyte-db.svg?type=small"/></a>
