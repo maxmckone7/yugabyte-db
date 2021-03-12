@@ -7,6 +7,7 @@
 [![Ask in forum](https://img.shields.io/badge/ask%20us-forum-orange.svg)](https://forum.yugabyte.com/)
 [![Slack chat](https://img.shields.io/badge/Slack:-%23yugabyte_db-blueviolet.svg?logo=slack)](https://www.yugabyte.com/slack)
 [![Analytics](https://yugabyte.appspot.com/UA-104956980-4/home?pixel&useReferer)](https://github.com/yugabyte/ga-beacon)
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fyugabyte-db?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fyugabyte-db.svg?type=shield"/></a>
 
 - [What is YugabyteDB?](#what-is-yugabytedb)
 - [Get Started](#get-started)
